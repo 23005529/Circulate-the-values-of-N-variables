@@ -26,7 +26,9 @@ def circulate():
     print("After circulating the values are: {}".format(out))
 ``````
 # Output:
+
 ![Alt text](<Screenshot 2023-10-26 084707.png>)
+
 ![Alt text](<Screenshot 2023-10-26 085011.png>)
 
 # Result:
