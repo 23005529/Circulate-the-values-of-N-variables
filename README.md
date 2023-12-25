@@ -36,9 +36,8 @@ def circulate():
 ``````
 # Output:
 
-![Alt text](<Screenshot 2023-10-26 084707.png>)
+![output](https://github.com/23005529/Circulate-the-values-of-N-variables/assets/139842207/cae067e1-1316-4396-ac92-9ba8de14bb8e)
 
-![Alt text](<Screenshot 2023-10-26 085011.png>)
 
 # Result:
 The result has been successfully verified.
